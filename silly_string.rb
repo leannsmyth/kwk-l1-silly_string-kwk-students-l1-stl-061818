@@ -7,7 +7,7 @@ puts "dog" #{dog}"
 
 "dog".upcase # Challenge 2: Capitalize every letter in your_favorite_word using a built in Ruby method
 
-"dog" .upcase = your_favorite_word # Put a . after your_favorite word and use a String method.
+"your favorite word" .upcase = your_favorite_word # Put a . after your_favorite word and use a String method.
 
 puts "dog" #{DOG}"
 
@@ -21,7 +21,7 @@ puts lowercased_phrase
 
 # Challenge 4: Count how many letters are in that big_word
 
-big_word = "supercalifragilisticexpialidocious"
+big_word = "supercalifragilisticexpialidocious" .length
 
 letter_count = big_word # Put a . after big_word and use a String method.
 
