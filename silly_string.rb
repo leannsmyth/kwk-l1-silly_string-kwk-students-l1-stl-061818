@@ -53,7 +53,10 @@
 
 favorite word = "dog"
 puts "dog" .upcase
-
+puts "IM NOT SHOUTING" .downcase
+puts "supercalifragilisticexpialidocious" .length
+puts "wow"+"mom"
+puts "i really like programming" .
 
 
 
