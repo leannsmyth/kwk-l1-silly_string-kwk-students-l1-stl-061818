@@ -51,7 +51,8 @@
 # puts sentence
 
 
-
+favorite word = "dog"
+puts "dog" .upcase
 
 
 
