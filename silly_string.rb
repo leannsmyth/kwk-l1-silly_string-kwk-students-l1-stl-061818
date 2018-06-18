@@ -49,3 +49,30 @@
 # sentence = sentence # Add your gsub chain here
 
 # puts sentence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
