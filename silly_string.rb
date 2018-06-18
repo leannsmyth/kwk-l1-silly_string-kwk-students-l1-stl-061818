@@ -7,7 +7,7 @@ puts "dog" #{dog}"
 
 "dog".upcase # Challenge 2: Capitalize every letter in your_favorite_word using a built in Ruby method
 
-"your favorite word" .upcase = your_favorite_word # Put a . after your_favorite word and use a String method.
+"dog" .upcase = DOG # Put a . after your_favorite word and use a String method.
 
 puts "dog" #{DOG}"
 
